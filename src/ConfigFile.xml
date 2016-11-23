@@ -1,0 +1,17 @@
+<Resturant name="Yumi-Yumi" maxCustomerPerDay="13" numberOfTables="7"  maxWaiterInShift="2" numberOfDishes="13" >
+	<Waiters maxCustomersPerWaiter="4" numberOfWaitres="5">
+	</Waiters>
+	<Customers>
+		<customer name="Customer" whileWaiting="readNewsPaper"></customer> 
+		<customer name="Customer" whileWaiting="playBubbles"></customer>
+		<customer name="Customer" whileWaiting="talkOnThePhone"></customer>
+		<customer name="Customer" whileWaiting="doHomework"></customer>
+		<customer name="Customer" whileWaiting="readNewsPaper"></customer> 
+		<customer name="Customer" whileWaiting="Smoke"></customer>
+		<customer name="Customer" whileWaiting="talkOnThePhone"></customer>
+		<customer name="Customer" whileWaiting="watchMovies"></customer>
+		<customer name="Customer" whileWaiting="playBubbles"></customer>
+		<customer name="Customer" whileWaiting="talkOnThePhone"></customer>
+		<customer name="Customer" whileWaiting="readNewsPaper"></customer> 		
+	</Customers>
+</Resturant>
